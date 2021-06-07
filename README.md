@@ -1,24 +1,4 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This was built on the RubyMine IDE. I was unable to use Git Bash for some reason so I had to create the folders/directories manually.
+It's set up like a blog site, where I could add scouting reports on players and others would be able to leave comments on whatever player they chose after reading that player's report.
